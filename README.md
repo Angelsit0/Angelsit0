@@ -7,13 +7,6 @@
 <h3 align="center">Student at Computer Engineering.</h3>
 
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-<div align="center"></p>
-
-
 - 🚨 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **angelgabrieltp2006@gmail.com**
