@@ -18,8 +18,6 @@
 
 - 🚨 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **angelgabrieltp2006@gmail.com**
-
 - 👻 Lover of animals and good music.
 
 
