@@ -1,16 +1,16 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7F5AF0&height=220&section=header&text=Angel%20Torres&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20student%20%C2%B7%20Full-stack%20%26%20game%20developer&descSize=18&descAlignY=58" alt="Angel Torres, Computer Engineering student, full-stack and game developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:11998E,100:38EF7D&height=220&section=header&text=Angel%20Torres&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20student%20%C2%B7%20Full-stack%20and%20game%20developer&descSize=18&descAlignY=58" alt="Angel Torres, Computer Engineering student, full-stack and game developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Angelsit0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7F5AF0&center=true&vCenter=true&width=620&lines=Full-stack+Developer;3D+games+in+Unity+%26+C%23;Spec-driven+development+with+AI+agents;Based+in+Venezuela+%F0%9F%87%BB%F0%9F%87%AA" alt="Full-stack Developer. 3D games in Unity and C#. Spec-driven development with AI agents. Based in Venezuela." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=620&lines=Full-stack+Developer;3D+games+in+Unity+%26+C%23;Spec-driven+development+with+AI+agents;Based+in+Venezuela+%F0%9F%87%BB%F0%9F%87%AA" alt="Full-stack Developer. 3D games in Unity and C#. Spec-driven development with AI agents. Based in Venezuela." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ujapoly.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20UJAPOLY-in%20your%20browser-7F5AF0?style=for-the-badge" alt="Play UJAPOLY in your browser" /></a>
+  <a href="https://ujapoly.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20UJAPOLY-in%20your%20browser-2EA043?style=for-the-badge" alt="Play UJAPOLY in your browser" /></a>
 </p>
 
 ## 👋 About me
@@ -184,5 +184,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7F5AF0&height=120&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:11998E,100:38EF7D&height=120&section=footer" alt="" width="100%" />
 </p>
