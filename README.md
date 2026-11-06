@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:11998E,100:38EF7D&height=220&section=header&text=Angel%20Torres&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20student%20%C2%B7%20Full-stack%20and%20game%20developer&descSize=18&descAlignY=58" alt="Angel Torres, Computer Engineering student, full-stack and game developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:11998E,100:38EF7D&height=220&section=header&text=Angel%20Torres&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20student&descSize=18&descAlignY=58" alt="Angel Torres, Computer Engineering student" width="100%" />
 </p>
 
 <p align="center">
